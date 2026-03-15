@@ -4,4 +4,4 @@ Abandoned Gods, Unity motoru ve C# dili kullanılarak geliştirilmiş, mekanik o
 Projede kullanılan görsel assetler, lisans kısıtlamaları ve repo boyutunu optimize etmek amacıyla bu depoya dahil edilmemiştir. Oyunun tam görselliği için yukarıdaki Itch.io linkini ziyaret edebilirsiniz.
 ## 🎮 Oyun Hakkında
 Oyunun çalışan versiyonunu, görsellerini ve oynanış videosunu aşağıdaki linkten inceleyebilirsiniz:
-👉 **[Itch.io Proje Sayfası] https://tunahancoban.itch.io/abandoned-gods **
+👉 https://tunahancoban.itch.io/abandoned-gods 
